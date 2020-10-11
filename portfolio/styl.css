@@ -1,0 +1,40 @@
+body {
+  background-color: #d3e3e1;
+}
+.img-thumbnail {
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+.card {
+  width: 30rem;
+  margin-top: 60px;
+  margin-left: 40px;
+  margin-bottom: 60px;
+}
+
+.card-title {
+  margin-bottom: 4px black;
+}
+footer {
+  margin-top: 120px;
+}
+.containerall {
+  margin-top: 60px;
+  margin-left: 40px;
+  background-color: azure;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  width: 50rem;
+}
+.container1 {
+  margin-left: 20px;
+}
+
+* {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  height: auto;
+}
+a {
+  color: red;
+}
